@@ -19,5 +19,5 @@
 
 **Email:** christian.munknissen@gmail.com
 
-#### Fullstack devlopment 
-### devloper jobs
+### Hvad vil jeg lave om 2 år?
+##### devloper jobs eller fullstack devlopment 
