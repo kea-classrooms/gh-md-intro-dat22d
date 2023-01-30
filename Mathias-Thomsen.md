@@ -1,7 +1,8 @@
 # Mathias Thomsen 
 ## Mathias-Thomsen
 
-![billede](https://user-images.githubusercontent.com/113047767/215461738-333d85a5-637e-496a-954c-1e5c972be082.png)
+-![billede](https://user-images.githubusercontent.com/113047767/215463811-230a248e-f372-4aa1-b532-b2f18c1ba438.png)
+
 
 Working in progress: 
 - Learn coding 
@@ -14,3 +15,7 @@ Programming languages i want to learn:
 - CSS
 
 Link to reporsitory: https://github.com/Mathias-Thomsen 
+
+My gmail: Mathiaskawa@gmail.com 
+
+
