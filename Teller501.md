@@ -5,7 +5,7 @@
 **Hvad arbejder jeg på**
 
 * Hacke Omar's Minecraft profil
-* Getting better at coding
+* Forbedre min kodekompetencer
 
 
 **Hvilke sprog vil jeg kode i**
