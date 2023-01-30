@@ -1,2 +1,0 @@
-#Wenmin Ye
-##AmingYee
