@@ -1,6 +1,6 @@
 # Naja Moe
 ## najamoe
-![image] 
+![Alt] 
 (https://user-images.githubusercontent.com/113134845/215463224-ac802208-6996-4646-8ec0-d412fdc632de.png)
 
 *Læse "The big bang theory" bog
