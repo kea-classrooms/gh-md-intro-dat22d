@@ -11,3 +11,10 @@
 1. MarkDown
 2. Javascript
 3. Python
+
+**This is my github link: github.com/VictorHanert**
+
+**Mail: v.hanert@gmail.com**
+**School mail: victo660m@stud.kea.dk**
+
+My dream is to become a software devoloper and a freelancer of some kind, where I can travel around the world while working.
