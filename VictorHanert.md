@@ -14,7 +14,7 @@ VictorHanert
 2. Javascript
 3. Python
 
-**This is my github link: github.com/VictorHanert**
+**This is my github link: https://github.com/VictorHanert**
 
 **Mail: v.hanert@gmail.com**
 
