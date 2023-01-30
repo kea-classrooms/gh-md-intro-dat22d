@@ -24,6 +24,5 @@ https://github.com/LilNiclas?tab=repositories
 **Skole Mail:**
 nicl2995@stud.kea.dk
 
-**Mål med livet**
-
+**Mål med livet:**
 I dream of working with Mr. Berg
