@@ -5,9 +5,12 @@
 free top G!!!
 
 workig in progress:
-1. coding
-2. github
-
 * coding
 * github
+
+Wanting to learn:
+1. markDown
+2. HTML
+3. AsiaDev
+4. Python
 
