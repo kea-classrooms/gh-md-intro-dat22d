@@ -21,8 +21,11 @@
 **Link to repositories:**
 https://github.com/LilNiclas?tab=repositories
 
-**Skole Mail:**
+**School Mail:**
 nicl2995@stud.kea.dk
 
-**Mål med livet:**
+**Gmail:**
+nidosnielsen@gmail.com
+
+**Life goals:**
 I dream of working with Mr. Berg
