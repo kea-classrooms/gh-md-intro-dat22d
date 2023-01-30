@@ -1,6 +1,6 @@
 # Kjartan Leander 
 ## KjartanLeander
-<img width="207" ![trane](https://user-images.githubusercontent.com/113175889/215455014-1495e4fa-9068-4ce3-b671-590ec12b6bc2.jpg)
+ !<img width="207" [trane](https://user-images.githubusercontent.com/113175889/215455014-1495e4fa-9068-4ce3-b671-590ec12b6bc2.jpg)
 
 * Stay in school
 * Keep eating
