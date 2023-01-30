@@ -1,8 +1,12 @@
 # Niclas Nielsen
 ## LilNiclas
-Big simon
+
+_Big simon_
+
 ![Billede](https://user-images.githubusercontent.com/113116068/215455357-7554821f-9ea5-4bcc-900c-14aced262358.jpg)
-Small simon
+
+_Small simon_
+
 <img src="https://user-images.githubusercontent.com/113116068/215455357-7554821f-9ea5-4bcc-900c-14aced262358.jpg" width="100px" />
 
 **Daily rutine**
