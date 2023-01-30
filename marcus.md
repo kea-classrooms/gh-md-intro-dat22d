@@ -1,8 +1,7 @@
 # Marcus Frørup Nielsen
 ## marcusFN
 
-<img width="385" alt="image" src="https://user-images.githubusercontent.com/113129217/215454257-a627f7a6-ec23-4c8c-b336-24dfbce97041.png">
-free top G!!!
+<img width="296" alt="image" src="https://user-images.githubusercontent.com/113129217/215466591-e4ac45ce-df26-4cb3-b680-b14fb97723b9.png">
 
 workig in progress:
 * coding
@@ -13,4 +12,12 @@ Wanting to learn:
 2. HTML
 3. AsiaDev
 4. Python
+
+Github link: https://github.com/marcusFN
+
+mail: marcus.froerupnielsen@gmail.com
+
+## future description view:
+
+
 
