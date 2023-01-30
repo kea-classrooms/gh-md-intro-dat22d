@@ -5,6 +5,7 @@
 **Hvad arbejder jeg på**
 
 * Hacke Omar's Minecraft profil
+* Getting better at coding
 
 
 **Hvilke sprog vil jeg kode i**
@@ -12,6 +13,8 @@
 1. Java
 2. Javascript
 3. Python
+4. HTML
+5. CSS
 
 
 [Min GitHub repositories](https://github.com/Teller501?tab=repositories)
