@@ -12,3 +12,6 @@
 #### <a href="https://github.com/danieljappe?tab=repositories"> A link to all my public repositories on GitHub.<a/>
 #### My GMail:
   - danieljappe@gmail.com
+#### A short description of what i'd like to do in my future as a software developer.
+  I would like to get all around knowledge within software delevopment as a full stack developer as a foundation.
+  Later on, i would like to specialize within game development.
