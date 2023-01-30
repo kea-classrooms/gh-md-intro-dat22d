@@ -4,3 +4,7 @@
 * Boxing and Muay Thai
 * Learn to code 
 * Bulking
+1. Ai
+2. HMTL
+3. CSS
+[Min github](https://github.com/frannerkea?tab=repositories)
