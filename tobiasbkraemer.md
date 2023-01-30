@@ -1,6 +1,8 @@
 # Tobias Krämer
 ## tobiasbkraemer
-![308185954_1715934212112247_4188732035470249275_n](https://user-images.githubusercontent.com/113188005/215461629-beff2e96-2bf8-4ca2-99f3-1c594c229b78.jpg)
+
+<img width="207" alt="Skærmbillede 2023-01-30 kl  12 34 13" src="https://user-images.githubusercontent.com/113188005/215466028-e969619a-1fc7-48b4-8ef0-c5cb03465319.png">
+
 * Eat
 * Sleep
 * Drink
