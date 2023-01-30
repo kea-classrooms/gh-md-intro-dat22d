@@ -9,5 +9,4 @@ Am working on:
 
 [Github link](https://github.com/math92n4)
 
-Gmail:
 mattiswulff@gmail.com
