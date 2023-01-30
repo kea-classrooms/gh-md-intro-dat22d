@@ -1,7 +1,9 @@
 # Mathias Thomsen 
 ## Mathias-Thomsen
 
--![billede](https://user-images.githubusercontent.com/113047767/215463811-230a248e-f372-4aa1-b532-b2f18c1ba438.png)
+
+
+<img src="https://user-images.githubusercontent.com/113047767/215463811-230a248e-f372-4aa1-b532-b2f18c1ba438.png" wight="100" />
 
 
 Working in progress: 
