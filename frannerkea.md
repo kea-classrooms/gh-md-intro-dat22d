@@ -7,4 +7,5 @@
 1. Ai
 2. HMTL
 3. CSS
-[Min github](https://github.com/frannerkea?tab=repositories)
+
+* [Min github](https://github.com/frannerkea?tab=repositories)
