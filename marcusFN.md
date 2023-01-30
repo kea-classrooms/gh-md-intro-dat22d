@@ -15,14 +15,14 @@ Wanting to learn:
 3. AsiaDev
 4. Python
 
-## Info:
+###### Info:
 Github link: https://github.com/marcusFN
 
 KEA mail: marc599n@stud.kea.dk
 
 Private mail: marcus.froerupnielsen@gmail.com
 
-## Future dream:
+###### Future dream:
 become a fullstack developer
 
 
