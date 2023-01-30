@@ -7,6 +7,6 @@ Cihad79
 
 ## A bulleted list of things you are currently working on.
 
-# better at github 
-# dont waste time
-# work work 
+### *better at github 
+### *dont waste time
+### * work work 
