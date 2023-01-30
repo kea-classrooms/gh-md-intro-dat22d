@@ -1,7 +1,10 @@
 # Navid Mirzad
 ## navidmirzad
 
-![download](https://user-images.githubusercontent.com/113148422/215455012-6bc64e09-18ff-43a2-93b8-5c7a6dab0600.jpg)
+![image](https://user-images.githubusercontent.com/113148422/215455012-6bc64e09-18ff-43a2-93b8-5c7a6dab0600.jpg)
+
+## Mini Kyrie
+<img src="https://user-images.githubusercontent.com/113148422/215455012-6bc64e09-18ff-43a2-93b8-5c7a6dab0600.jpg" width="150" />
 
 ### Im currently working on:
 * A prioritized list of Programming languages and technologies you wanna work with.
