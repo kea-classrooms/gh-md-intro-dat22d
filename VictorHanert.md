@@ -16,10 +16,10 @@ VictorHanert
 
 This is my github link: https://github.com/VictorHanert
 
-**Mail: v.hanert@gmail.com**
+**Mail: v.hanert@gmail.com** :email:
 
-**School mail: vict660m@stud.kea.dk**
+**School mail: vict660m@stud.kea.dk** :student:
 
-#### My dream
+#### My dream :+1:
 
 My dream is to become a software devoloper and a freelancer of some kind, where I can travel around the world while working.
