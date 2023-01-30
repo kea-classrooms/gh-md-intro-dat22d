@@ -9,3 +9,6 @@
 3. CSS
 
 * [Min github](https://github.com/frannerkea?tab=repositories)
+* Email: Chr.v.frandsen@gmail.com
+# Dream Job
+* I would love to be a digitil normad who can work from anywhere in the world so I can travel around the world and work at the same time
