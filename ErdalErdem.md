@@ -4,4 +4,10 @@
 #### Working on.
 ##### - Github
 #### Prioritized list.
-
+##### - Java script
+##### - Python
+##### - HTML
+#### Info 
+##### https://github.com/ErdalErdem?tab=repositories
+##### mc4015@hotmail.com
+##### I would love to be working on self made projects i believe in.
