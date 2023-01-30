@@ -1,3 +1,4 @@
 # Stinus Helweg Andersen
 ## YmerA38
-![Stinus!](C:\Users\stinu\OneDrive\Billeder\stinus.jpg "Stinus")
+![stinus](https://user-images.githubusercontent.com/113172898/215466149-7794eaf4-ade1-4c7a-a961-fcd677e83789.jpg)
+
