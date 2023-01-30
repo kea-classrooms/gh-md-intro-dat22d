@@ -13,9 +13,9 @@
 
 
 * A link to all your public repositories on GitHub.
-<p> This was our final exam project last semester.</p> [Delfinen](https://github.com/math92n4/Delfinen).
-<p> This was another one of our exam projects last semester.</p> [Adventure](https://github.com/math92n4/AdventureProject).
-<p> this was me playing around with branching in GitHub.</p> [Branching](https://github.com/navidmirzad/BranchTesting). 
+<p> This was our final exam project last semester.</p> (https://github.com/math92n4/Delfinen).
+<p> This was another one of our exam projects last semester.</p> (https://github.com/math92n4/AdventureProject).
+<p> this was me playing around with branching in GitHub.</p> (https://github.com/navidmirzad/BranchTesting). 
 
 
 * Your GMail (if you have more, than just the one you'd like to use for sharing documents).
