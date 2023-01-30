@@ -14,6 +14,8 @@ public repositories [AmingYee](https://github.com/AmingYee?tab=repositories).
 - [x] A short description of what you dream of working with - two years from now - when you graduate and enter the labour market as a full-fledged, full-time software developer.
 - [ ] 
 learning java in proggress
+
+G-mail:
 ```
 wenminye9@gmail.com
 ```
