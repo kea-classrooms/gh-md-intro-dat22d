@@ -19,3 +19,16 @@ Cihad79
 
 
 ## A link to all your public repositories on GitHub. 
+
+#####  a program that makes superheroes: https://github.com/cihad79/MitSuperheroesProejkt.git 
+##### a walk in a park: https://github.com/cihad79/AWalkInThePark.git
+
+##  Your GMail 
+
+##### ciha0128@gmail.com 
+
+##  A short description of what you dream of working with - two years from now - when you graduate and enter the labour market as a full-fledged, full-time software developer.  
+
+
+##### money maker
+##### survive survive 
