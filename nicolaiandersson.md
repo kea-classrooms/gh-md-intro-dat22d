@@ -5,3 +5,7 @@
 **Daglig rutine**
 * Studying
 * School
+
+**Prioritized list of Programming Languages**
+1. Java
+2.
