@@ -6,3 +6,9 @@
 Am working on:
 * Github
 * MarkDown
+
+Github link:
+https://github.com/math92n4
+
+Gmail:
+mattiswulff@gmail.com
