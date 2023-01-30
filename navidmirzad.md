@@ -12,7 +12,8 @@
 5. etc....
 
 
-* A link to all your public repositories on GitHub.
+
+### A link to all my public repositories on GitHub.
 <p> This was our final exam project last semester.</p> (https://github.com/math92n4/Delfinen).
 <p> This was another one of our exam projects last semester.</p> (https://github.com/math92n4/AdventureProject).
 <p> this was me playing around with branching in GitHub.</p> (https://github.com/navidmirzad/BranchTesting). 
