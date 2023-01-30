@@ -1,5 +1,5 @@
 # Marcus Frørup Nielsen
-## Usernam: marcusFN
+## Username: marcusFN
 
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/113129217/215466591-e4ac45ce-df26-4cb3-b680-b14fb97723b9.png">
 
@@ -15,12 +15,14 @@ Wanting to learn:
 3. AsiaDev
 4. Python
 
+## Info:
 Github link: https://github.com/marcusFN
+
 KEA mail: marc599n@stud.kea.dk
 
-mail: marcus.froerupnielsen@gmail.com
+Private mail: marcus.froerupnielsen@gmail.com
 
-## future dream:
+## Future dream:
 become a fullstack developer
 
 
