@@ -14,7 +14,7 @@
 3. Python
 
 
-[Min GitHub profil](https://github.com/Teller501)
+[Min GitHub repositories](https://github.com/Teller501?tab=repositories)
 
 
 **Email:** anders.teller@gmail.com
