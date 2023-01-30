@@ -18,8 +18,8 @@
 3. C++
 4. C#
 
-**Link to repositories**
+**Link to repositories:**
 https://github.com/LilNiclas?tab=repositories
 
-**Skole Mail**
+**Skole Mail:**
 nicl2995@stud.kea.dk
