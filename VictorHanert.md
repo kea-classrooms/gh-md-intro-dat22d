@@ -14,11 +14,11 @@ VictorHanert
 2. Javascript
 3. Python
 
-**This is my github link: https://github.com/VictorHanert**
+This is my github link: https://github.com/VictorHanert
 
 **Mail: v.hanert@gmail.com**
 
-**School mail: victo660m@stud.kea.dk**
+**School mail: vict660m@stud.kea.dk**
 
 #### My dream
 
