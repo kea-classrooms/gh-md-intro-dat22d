@@ -5,3 +5,14 @@
 * Sleep
 * Drink
 * Repeat
+
+1. Do better
+2. Dont fail
+
+Link to all repostiiatsies
+https://github.com/tobiasbkraemer?tab=repositories
+
+tobi4533@stud.kea.dk
+
+Earn some moneeeeys
+
