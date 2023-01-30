@@ -5,7 +5,7 @@
 * Boxing and Muay Thai
 * Learn to code 
 * Bulking
-#  Programming languages and technologies I wanna work with. 
+#  Programming languages and technologies I wanna work with 
 1. Ai
 2. Machine learning
 3. HMTL
