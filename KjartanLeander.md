@@ -1,6 +1,8 @@
 # Kjartan Leander 
 ## KjartanLeander
  ![Skærmbillede 2022-11-17 kl  10 04 25](https://user-images.githubusercontent.com/113175889/215468365-d1e98984-2889-4d5e-a31c-1016f9e0b77b.png)
+ 
+ <img src="https://user-images.githubusercontent.com/113175889/215468365-d1e98984-2889-4d5e-a31c-1016f9e0b77b.png" width="300px" />
 
 
 * Stay in school
