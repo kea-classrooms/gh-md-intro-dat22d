@@ -10,3 +10,12 @@ Cihad79
 ##### *better at github 
 ##### *dont waste time
 ##### * work work 
+
+## * A prioritized list of Programming languages and technologies you wanna work with. 
+
+##### * java
+##### * Python 
+##### *javaScript
+
+
+## A link to all your public repositories on GitHub. 
