@@ -4,3 +4,6 @@
 * [School] Stay in school
 * [Eat] Keep eating
 * [Drink] Keep drinking
+1. Eat
+2. Sleep
+3. Repeat
