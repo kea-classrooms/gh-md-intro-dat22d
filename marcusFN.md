@@ -1,7 +1,8 @@
 # Marcus Frørup Nielsen
 ## marcusFN
 
-<img width="296" alt="image" src="https://user-images.githubusercontent.com/113129217/215466591-e4ac45ce-df26-4cb3-b680-b14fb97723b9.png">
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/113129217/215466591-e4ac45ce-df26-4cb3-b680-b14fb97723b9.png">
+
 
 workig in progress:
 * coding
