@@ -10,3 +10,5 @@
 2. JavaScript
 3. HTML & CSS
 #### <a href="https://github.com/danieljappe?tab=repositories"> A link to all my public repositories on GitHub.<a/>
+#### My GMail:
+  - danieljappe@gmail.com
