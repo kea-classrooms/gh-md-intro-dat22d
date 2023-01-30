@@ -19,9 +19,11 @@
 <p> this was me playing around with branching in GitHub. https://github.com/navidmirzad/BranchTesting </p>
 
 
-* Your GMail (if you have more, than just the one you'd like to use for sharing documents).
+<p> Your GMail (if you have more, than just the one you'd like to use for sharing documents). </p>
+<p> No Gmail... but navidmirzad@hotmail.com </p>
 
-* A short description of what you dream of working with - two years from now - when you graduate and enter the labour market as a full-fledged, full-time software developer.
+<p> A short description of what you dream of working with - two years from now - when you graduate and enter the labour market as a full-fledged, full-time software developer. </p>
+<p> I dream of working with either some sort of software development or IT-security. I dream of having an interesting job, and working together with an awesome team, and good colleagues. Most of all I look forward to being able to pay my bills on time and making life more interesting lol. </p>
 
 
 ### As you progress with the items on the list - come back to this issue and check out the items.
