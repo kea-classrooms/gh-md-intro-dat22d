@@ -10,12 +10,8 @@
 1. Java
 2.
 
-**Repository link**
-https://github.com/nicolaiandersson?tab=repositories
+**Repository link** - https://github.com/nicolaiandersson?tab=repositories
 
-**Gmail**
-nicolaiaagaard1@gmail.com
+**Gmail** - nicolaiaagaard1@gmail.com
 
-**Drømmen**
-
-CEO af business med nidos som pedel
+**Drømmen** - CEO af business med nidos 
