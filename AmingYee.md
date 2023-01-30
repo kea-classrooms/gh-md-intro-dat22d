@@ -1,5 +1,6 @@
 # Wenmin Ye
 ## AmingYee
+####### random picture from the internet
 ![a image of self](https://img1.goodfon.ru/wallpaper/nbig/0/c4/devushka-povyazka-krov.jpg)
 public repositories [AmingYee](https://github.com/AmingYee?tab=repositories).
 
@@ -12,7 +13,7 @@ public repositories [AmingYee](https://github.com/AmingYee?tab=repositories).
 - [x] Your GMail (if you have more, than just the one you'd like to use for sharing documents).
 - [x] A short description of what you dream of working with - two years from now - when you graduate and enter the labour market as a full-fledged, full-time software developer.
 - [ ] 
-learning java
+learning java in proggress
 ```
 wenminye9@gmail.com
 ```
