@@ -1,2 +1,0 @@
-# Lars Kruse
-## @lakruzz
